@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boloForms/static/css/main.d5eecf33.css",
+    "main.js": "/boloForms/static/js/main.98b19311.js",
+    "static/js/787.39882777.chunk.js": "/boloForms/static/js/787.39882777.chunk.js",
+    "index.html": "/boloForms/index.html",
+    "main.d5eecf33.css.map": "/boloForms/static/css/main.d5eecf33.css.map",
+    "main.98b19311.js.map": "/boloForms/static/js/main.98b19311.js.map",
+    "787.39882777.chunk.js.map": "/boloForms/static/js/787.39882777.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5eecf33.css",
+    "static/js/main.98b19311.js"
+  ]
+}
